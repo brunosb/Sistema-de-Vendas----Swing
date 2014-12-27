@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BancoProduto>
+  <produto id="1">
+    <nome tipo="Roupa">CAMISETA REGATA</nome>
+    <descrição>camiseta sem manga</descrição>
+    <preçoUnitário>20,00</preçoUnitário>
+    <qtde>284</qtde>
+  </produto>
+  <produto id="2">
+    <nome tipo="Roupa">VESTIDO</nome>
+    <descrição>comprimento curto</descrição>
+    <preçoUnitário>15,00</preçoUnitário>
+    <qtde>93</qtde>
+  </produto>
+  <produto id="3">
+    <nome tipo="calçado">SAPATO DE COURO</nome>
+    <descrição>couro</descrição>
+    <preçoUnitário>89,00</preçoUnitário>
+    <qtde>-3</qtde>
+  </produto>
+  <produto id="5">
+    <nome tipo="Acessório">CINTO</nome>
+    <descrição>com fivela</descrição>
+    <preçoUnitário>25,00</preçoUnitário>
+    <qtde>146</qtde>
+  </produto>
+  <produto id="6">
+    <nome tipo="roupa de banho">SUNGA</nome>
+    <descrição />
+    <preçoUnitário>30,00</preçoUnitário>
+    <qtde>198</qtde>
+  </produto>
+  <produto id="7">
+    <nome tipo="roupa de banho">BIQUINE</nome>
+    <descrição />
+    <preçoUnitário>30,00</preçoUnitário>
+    <qtde>160</qtde>
+  </produto>
+</BancoProduto>

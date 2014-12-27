@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BancoTipoProduto>
+  <tipo>---Selecione o Tipo---</tipo>
+  <tipo>Roupa</tipo>
+  <tipo>Acessório</tipo>
+  <tipo>roupa de banho</tipo>
+  <tipo>calçado</tipo>
+</BancoTipoProduto>

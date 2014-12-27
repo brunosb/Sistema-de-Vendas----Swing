@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BancoCliente>
+  <cliente id="1">
+    <nome>BAZÍLIO GONÇALVES</nome>
+    <sexo>Masculino</sexo>
+    <idade>30</idade>
+    <telefone>(85)8588-5500</telefone>
+    <cpf>244.684.103-10</cpf>
+  </cliente>
+  <cliente id="2">
+    <nome>SAMARA XIMENES</nome>
+    <sexo>Feminino</sexo>
+    <idade>20</idade>
+    <telefone>(85)8671-1544</telefone>
+    <cpf>059.477.093-92</cpf>
+  </cliente>
+  <cliente id="3">
+    <nome>BRUNO Silva</nome>
+    <sexo>Masculino</sexo>
+    <idade>22</idade>
+    <telefone>(85)9755-0517</telefone>
+    <cpf>016.163.752-30</cpf>
+  </cliente>
+  <cliente id="4">
+    <nome>EDUARDO BARBOSA</nome>
+    <sexo>Masculino</sexo>
+    <idade>51</idade>
+    <telefone>(85)9739-7355</telefone>
+    <cpf>221.143.603-00</cpf>
+  </cliente>
+  <cliente id="5">
+    <nome>PAULO HENRIQUE</nome>
+    <sexo>Masculino</sexo>
+    <idade>18</idade>
+    <telefone>(85)8671-1544</telefone>
+    <cpf>807.662.693-53</cpf>
+  </cliente>
+</BancoCliente>

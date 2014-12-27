@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BancoNotas>
+  <Nota Numeracao="1" Data="03/08/2014">
+    <Cliente>
+      <Nome>BAZÍLIO GONÇALVES</Nome>
+      <Telefone>(85)8588-5500</Telefone>
+      <CPF>244.684.103-10</CPF>
+    </Cliente>
+    <Produto>
+      <Item Quantidade="2" PrecoUnitario="89.00" PrecoTotal="178.0">SAPATO DE COURO</Item>
+      <Item Quantidade="1" PrecoUnitario="20.00" PrecoTotal="20.0">CINTO</Item>
+    </Produto>
+    <Pagamento>
+      <ValorTotal>178.2</ValorTotal>
+      <ValorTotalNota>198.0</ValorTotalNota>
+      <ModoPagamento>Á Vista</ModoPagamento>
+    </Pagamento>
+  </Nota>
+  <Nota Numeracao="2" Data="03/08/2014">
+    <Cliente>
+      <Nome>SAMARA XIMENES</Nome>
+      <Telefone>(85)8671-1544</Telefone>
+      <CPF>059.477.093-92</CPF>
+    </Cliente>
+    <Produto>
+      <Item Quantidade="3" PrecoUnitario="20.00" PrecoTotal="60.0">CAMISETA REGATA</Item>
+      <Item Quantidade="4" PrecoUnitario="15.00" PrecoTotal="60.0">VESTIDO</Item>
+      <Item Quantidade="1" PrecoUnitario="12.00" PrecoTotal="12.0">COLAR</Item>
+    </Produto>
+    <Pagamento>
+      <ValorTotal>66.0</ValorTotal>
+      <ValorTotalNota>132.0</ValorTotalNota>
+      <ModoPagamento>Crédito Parcelado de 2x</ModoPagamento>
+    </Pagamento>
+  </Nota>
+  <Nota Numeracao="3" Data="06/08/2014">
+    <Cliente>
+      <Nome>BRUNO BARBOSA</Nome>
+      <Telefone>(85)9755-0517</Telefone>
+      <CPF>016.163.752-30</CPF>
+    </Cliente>
+    <Produto>
+      <Item Quantidade="3" PrecoUnitario="20.00" PrecoTotal="60.0">CAMISETA REGATA</Item>
+      <Item Quantidade="2" PrecoUnitario="30.00" PrecoTotal="60.0">SUNGA</Item>
+      <Item Quantidade="1" PrecoUnitario="89.00" PrecoTotal="89.0">SAPATO DE COURO</Item>
+    </Produto>
+    <Pagamento>
+      <ValorTotal>198.55</ValorTotal>
+      <ValorTotalNota>209.0</ValorTotalNota>
+      <ModoPagamento>Débito</ModoPagamento>
+    </Pagamento>
+  </Nota>
+  <Nota Numeracao="4" Data="05/08/2014">
+    <Cliente>
+      <Nome>EDUARDO BARBOSA</Nome>
+      <Telefone>(85)9739-7355</Telefone>
+      <CPF>221.143.603-00</CPF>
+    </Cliente>
+    <Produto>
+      <Item Quantidade="2" PrecoUnitario="89.00" PrecoTotal="178.0">SAPATO DE COURO</Item>
+      <Item Quantidade="3" PrecoUnitario="20.00" PrecoTotal="60.0">CINTO</Item>
+    </Produto>
+    <Pagamento>
+      <ValorTotal>238.0</ValorTotal>
+      <ValorTotalNota>238.0</ValorTotalNota>
+      <ModoPagamento>Á Vista</ModoPagamento>
+    </Pagamento>
+  </Nota>
+  <Nota Numeracao="6" Data="04/08/2014">
+    <Cliente>
+      <Nome>EDUARDO BARBOSA</Nome>
+      <Telefone>(85)9739-7355</Telefone>
+      <CPF>221.143.603-00</CPF>
+    </Cliente>
+    <Produto>
+      <Item Quantidade="10" PrecoUnitario="20.00" PrecoTotal="200.0">CAMISETA REGATA</Item>
+      <Item Quantidade="4" PrecoUnitario="89,00" PrecoTotal="356.0">SAPATO DE COURO</Item>
+    </Produto>
+    <Pagamento>
+      <ValorTotal>500.4</ValorTotal>
+      <ValorTotalNota>556.0</ValorTotalNota>
+      <ModoPagamento>Á Vista</ModoPagamento>
+    </Pagamento>
+  </Nota>
+  <Nota Numeracao="7" Data="06/08/2014">
+    <Cliente>
+      <Nome>SAMARA XIMENES</Nome>
+      <Telefone>(85)8671-1544</Telefone>
+      <CPF>059.477.093-92</CPF>
+    </Cliente>
+    <Produto>
+      <Item Quantidade="3" PrecoUnitario="89,00" PrecoTotal="267.0">SAPATO DE COURO</Item>
+    </Produto>
+    <Pagamento>
+      <ValorTotal>267.0</ValorTotal>
+      <ValorTotalNota>267.0</ValorTotalNota>
+      <ModoPagamento />
+    </Pagamento>
+  </Nota>
+</BancoNotas>
